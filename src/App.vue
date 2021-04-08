@@ -52,7 +52,7 @@
         leave-active-class="transition-opacity ease-in duration-300"
         leave-from-class="opacity-100"
         leave-to-class="opacity-0">
-        <li v-if="anOptionIsSelected" class="col-span-3 border-2 border-green-200 bg-green-50 rounded-md">
+        <li v-if="anOptionIsSelected" class="col-span-3 border-2 border-green-200 bg-green-50 rounded-lg">
           <div class="rounded-md bg-green-50 p-4">
             <div class="flex">
               <div class="flex-shrink-0">
